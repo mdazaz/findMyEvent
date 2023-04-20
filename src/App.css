@@ -1,0 +1,10 @@
+nav .active {
+  color: rgb(206, 230, 111);
+  text-decoration: dotted;
+  /*font-weight: bold;*/
+}
+nav li a {
+  text-decoration: none;
+  color: rgb(28, 160, 160);
+  margin: 0 2rem;
+}

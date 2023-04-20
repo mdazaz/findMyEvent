@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "title": "Standup Comedy",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/41702498_1206896326115528_7033210819252846592_o_20191003164635.jpg",
+      "date": "2023-04-22",
+      "description": "The standup comedy held on Koramangala ",
+      "id": 1
+    },
+    {
+      "title": "Rambo Circus International Festival",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VGh1LCAyMCBBcHIgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00354724-mgxbfrdlxj-portrait.jpg",
+      "date": "2023-04-21",
+      "description": "This Summer enjoy The International Circus Festival in an air conditioned auditorium. First time in Bengaluru with International award winning artists from around the globe with their breathtaking ground and aerial acts.",
+      "id": 2
+    },
+    {
+      "title": "Bollywood Dance Workshop",
+      "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-bollywood-dance-workshop-0-2023-3-30-t-13-30-56.jpg",
+      "date": "2023-04-21",
+      "description": "Bollywood is a vibrant and versatile dance featuring songs in various genres. Come and experience the joy of grooving to the best of Bollywood numbers in this Choreography class by Motley Dance Company!",
+      "id": 3
+    },
+    {
+      "title": "Karaoke Night",
+      "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-koramangala-karaoke-night-0-2022-7-8-t-8-55-40.jpg",
+      "date": "2023-04-23",
+      "description": "Welcome to a Late Night Karaoke Party in Koramangala where you can buy a redeemable ticket and sing your heart out.\n\nNote: Booze is not served at the venue",
+      "id": 4
+    },
+    {
+      "title": "Deluxe Comedy ft. Samarpan Bose & Akash Nath",
+      "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-deluxe-comedy-ft-samarpan-bose-akash-nath-0-2023-2-14-t-6-33-33.jpg",
+      "date": "2023-04-26",
+      "description": "Punchlime Productions and Glen`s Bakehouse bring to you a phenomenal show, DELUXE COMEDY! What is DELUXE COMEDY? Good question. Moving on, Akash Nath, Mohit Vaid and Samarpan Bose are going to be performing this Friday at Glen`s Bakehouse (Koramangala). If you`re a fan of Stand Up Comedy and general happiness then you don`t wanna miss this show. With your help we can finally turn Glen`s Bakehouse into Glen`s Bake-Home :)",
+      "id": 5
+    }
+  ]
+}
